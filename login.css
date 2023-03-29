@@ -1,0 +1,73 @@
+.form-login{
+height: auto;
+
+}
+.nabar-login{
+height: 20px;
+background-color: #fff;
+padding-left: 2%;
+padding-right: 2%;
+text-decoration: none;
+}
+.nabar-login span{
+    color: #1730a1;;
+}
+a{
+    text-decoration: none;
+    color: #3e3e3e;
+}
+.nabar-login span a:hover{
+    color: #ff5e00;
+}
+.hv-home :hover{
+    color: #ff5e00;
+}
+
+.body-login H1{
+    color: #3e3e3e;
+    size: -9px;
+    font-size: large;
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 20px;
+   
+}
+.body-login{
+   
+    padding-left: 35%;
+    padding-right: 35%;
+    width: 25%;
+    height: auto;
+    border-color: #e4e4e4;
+}
+.box-login{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-style: double;
+    
+}
+.qmk-dki{
+    display: flex;
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+.button-login{
+    
+    display: block;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ff5e00;
+    color: #fff;
+    border-style: none;
+   
+}
+.qmk-dki a:hover{
+    color: #3d5ded;
+    text-decoration: underline;
+
+}
